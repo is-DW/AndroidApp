@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AndroidApp</string>
+
+    <!--  使用用户名来区分此设备属于哪个公司  -->
+    <string name="login">登录</string>avatar_description
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="avatar_description">用户头像</string>
+
+    <string name="app_config">应用配置</string>
+    <string name="server_ip">服务器IP</string>
+    <string name="server_port">服务器端口</string>
+    <string name="commit_app_config">提交应用配置</string>
+
+    <string name="collection_device_config">采集设备配置</string>
+    <string name="open_time">开门时间</string>
+    <string name="close_time">关门时间</string>
+    <string name="pause_time">停滞时间</string>
+    <string name="light_open">照明灯开启时间</string>
+    <string name="light_close">照明灯停止时间</string>
+    <string name="commit_device_conf">提交采集设备配置</string>
+
+    <string name="inner_box_type_distribution">内筒类型分配</string>
+    <string name="inner_box_type">内筒类型</string>
+    <string name="collection_device_id">采集设备</string>
+    <string name="commit_box_type">提交采集设备配置</string>
+
+</resources>
